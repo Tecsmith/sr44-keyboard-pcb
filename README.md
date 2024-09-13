@@ -13,6 +13,7 @@ A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those wh
 - [ ] QMK build
 - [ ] MCU *undecided*
 - [ ] C3/4 UDB Usb-C
+- [ ] USB PD Sink controler for 5V-3A Power Delivery
 - [ ] Built in USB-Hub
 - [ ] OLED Scree
 - [ ] Battery backed-up RTC for time
