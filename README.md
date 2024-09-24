@@ -10,7 +10,7 @@
 
 ## Intent
 
-A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those who use 60% keyboards but need a num-cluster*
+A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those who use 60%/70% keyboards but need a num-cluster*.  Also something for thoes extra key-caps to do.
 
 
 ## Layout ideation renders
@@ -23,6 +23,9 @@ A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those wh
 
 ![Layout](docs/vr44-layout.png)
 
+#### Matrix
+
+![Matrix](docs/vr44-matrix.png)
 
 ## Planned Features
 
