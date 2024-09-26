@@ -27,16 +27,23 @@ A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those wh
 
 ![Matrix](docs/vr44-matrix.png)
 
+
 ## Planned Features
 
 - [ ] QMK build
-- [ ] MCU *undecided* *(maybe RP2350, depending on QMK support)*
+- [ ] MCU `RP2350` *(Depending on QMK support.  Keep track: [#24346](https://github.com/qmk/qmk_firmware/pull/24346) )s*
 - [ ] C3/4 UDB Usb-C
-- [ ] USB PD Sink controler for 5V-3A Power Delivery
-- [ ] Built in USB-Hub, 3-port.  Two back, one on right side
-- [ ] OLED Screen
-- [ ] Battery backed-up RTC for time
-- [ ] Temperature sensor
+- [ ] Hotswap MX or Choc switches *(dual support. MAYBE NOT)*
+- [ ] 5 x positions for Skyloong Rotary Encoder *(with all 5 in concurent use capability)*
+- [ ] USB PD Sink controler for 5V-3A Power Delivery. `HUSB238` ~~*or*~~ ~~`TPS25730`~~ ~~*or*~~ ~~`STUSB4500`~~
+- [ ] Built in USB-Hub, 3-port.  Two back, one on right side.  `CH334F`
+  - with option to off-line the Hub but keep the KB working. Needs `TS3USB221`
+- [ ] OLED Display screen module.
+  - White *(a.k.a. 0.91-inch OLED)* *or* Color *(?? imposible to find)*
+  - 128x32 resolution 
+  - 19 x 33 mm (0.75 x 1.5 inch) &#177;Max size
+- [ ] Battery backed-up RTC for time display. `DS1307`
+- [ ] Temperature sensor. `DS18B20`
 - [ ] All 2U keys have 2x 1U options *(hotswap)*
 - [ ] Additional optional keys arround the arrow cluster
 
@@ -44,13 +51,13 @@ A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those wh
 ## Wish List
 
 - *undecided*
-- *(maybe ESP32 Tasmota support -- overkill, maybe not)*
 
 
 ## Possible BIG issues
 
 - *Way to far in the futire to know*
 
+&nbsp;<br>&nbsp;
 
 ---
 Made with &#9829; by Vino Rodrigues
