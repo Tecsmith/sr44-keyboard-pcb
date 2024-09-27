@@ -45,7 +45,8 @@ A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those wh
 - [ ] Battery backed-up RTC for time display. `DS1307`
 - [ ] Temperature sensor. `DS18B20`
 - [ ] All 2U keys have 2x 1U options *(hotswap)*
-- [ ] Additional optional keys arround the arrow cluster
+- [ ] Additional optional keys around the arrow cluster
+- [ ] `AST1109MLTRQ` buzzer.  *(For builtin alarm function, MAYBE?)*
 
 
 ## Wish List
@@ -55,7 +56,8 @@ A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those wh
 
 ## Possible BIG issues
 
-- *Way to far in the futire to know*
+- Stacking the electronics features - may not have space on the PCB
+- `RP2350` not on ChBios yet, so not on QMK
 
 &nbsp;<br>&nbsp;
 
