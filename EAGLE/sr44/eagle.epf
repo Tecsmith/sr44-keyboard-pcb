@@ -308,8 +308,8 @@ UsedLibraryUrn="urn:adsk.eagle:library:196"
 UsedLibraryUrn="urn:adsk.eagle:library:197"
 UsedLibraryUrn="urn:adsk.eagle:library:198"
 UsedLibraryUrn="urn:adsk.eagle:library:199"
-UsedLibrary="/Users/vino/Documents/EAGLE/libraries/ts-eagle-lib-symlink-a/ts_keyboards.lbr"
-UsedLibrary="/Users/vino/Documents/EAGLE/libraries/ts-eagle-lib-symlink-a/st.lbr"
+UsedLibrary="/Users/user/Documents/EAGLE/libraries/ts-eagle-lib-symlink-a/ts_keyboards.lbr"
+UsedLibrary="/Users/user/Documents/EAGLE/libraries/ts-eagle-lib-symlink-a/st.lbr"
 
 [Win_1]
 Type="Control Panel"

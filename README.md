@@ -1,25 +1,25 @@
-# VR44-Keyboard-PCB
+# SR44-Keyboard-PCB
 
 <p align="center"><img src="docs/donotbuild.min.svg" alt="Under Construction" width="320"></p>
 
 ## Intent
 
-A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those who use 60%/70% keyboards but need a num-cluster*.  Also something for thoes extra key-caps to do.
+A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those who use 60%/70% keyboards but need a num-cluster*.  Also something for those extra key-caps to do.
 
 
 ## Layout ideation renders
 
 #### Render
 
-<img src="docs/vr44-render.png" alt="Render" width="480">
+<img src="docs/sr44-render.png" alt="Render" width="480">
 
 #### Layout
 
-<img src="docs/vr44-layout.png" alt="Layout" width="480">
+<img src="docs/sr44-layout.png" alt="Layout" width="480">
 
 #### Matrix
 
-<img src="docs/vr44-matrix.png" alt="Matrix" width="480">
+<img src="docs/sr44-matrix.png" alt="Matrix" width="480">
 
 
 ## Planned Features
@@ -58,4 +58,4 @@ A macro-pad / num-pad cluster **companion** keyboard with QMK f/w, *for those wh
 &nbsp;<br>&nbsp;
 
 ---
-Made with &#9829; by Vino Rodrigues
+Made with :heart: by Silvino Rodrigues
